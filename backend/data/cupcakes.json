@@ -1,0 +1,8 @@
+[
+  { "id": 1, "sabor": "Baunilha com Morango", "preco": 8.50 },
+  { "id": 2, "sabor": "Chocolate com Brigadeiro", "preco": 9.00 },
+  { "id": 3, "sabor": "Red Velvet com Cream Cheese", "preco": 10.00 },
+  { "id": 4, "sabor": "Doce de Leite com Nozes", "preco": 9.50 },
+  { "id": 5, "sabor": "Limão Siciliano com Merengue", "preco": 8.90 },
+  { "id": 6, "sabor": "Cenoura com Chocolate", "preco": 8.70 }
+]
